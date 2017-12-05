@@ -90,4 +90,5 @@ android {
     packagingOptions {
         pickFirst  'META-INF/rxjava.properties'
     }
+    buildToolsVersion '26.0.2'
 }
